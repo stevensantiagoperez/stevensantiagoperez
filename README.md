@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Steven Santiago-Perez</h1>
 <h3 align="center">A passionate full stack developer from Pennsylvania, USA.</h3>
 
-- 🔭 I’m currently working on **Machine Learning Data Set Project**
+- 🔭 I’m currently working on **React Pizza Order Form Website**
 
 - 🌱 I’m currently learning **React, State Management, Advanced Web Applications**
+
+- 🤝 I’m looking for help with **Machine Learning Data Set Project**
 
 - 👨‍💻 All of my projects are available at [https://www.stevensantiagoperez.com/](https://www.stevensantiagoperez.com/)
 
